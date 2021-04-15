@@ -1,0 +1,27 @@
+body{
+    Background-color:pink;}
+
+h1, h2 { border: 4px dotted pink}
+
+    body
+        {
+            background-color:#DE8178;
+            font-family: 'Courier New', monospace;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 4 3px;
+}
+.column {
+  flex: 20%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+ jumbotron text-center { border:rgb(153, 153, 255);}
